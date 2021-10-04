@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Windyvinoth13
 - 👀 I’m interested in Artificial intelligence and machine learning
 - 🌱 I’m currently learning in University of Moratuwa
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me 
 
 <!---
